@@ -1,0 +1,80 @@
+[
+  {
+    "agentId": "667511095601344ef8a516e5",
+    "title": "Riverview Rida",
+    "propertyImages": [
+      "image_1718963705154-746467108.jpg",
+      "image_1718963705155-933907891.jpg",
+      "image_1718963705156-75128706.jpg"
+    ],
+    "price": "$15000.00",
+    "category": "sale",
+    "propertySizeCategory": "small",
+    "address": "2118 Thornridge Cir. Syracuse,Connecticut 35624",
+    "size": "1930 Sqft",
+    "bedrooms": 5,
+    "bathrooms": 3,
+    "propertyDescription": "Indulge in a unique blend of contemporary design and artistic inspiration in this 3-bedroom loft. This space effortlessly aligns modern living with creative allure, inviting you to connect with its vibrant energy.As you step inside, an inviting connection forms between the open layout and the surrounding cityscape. Each design element invites you to explore further - from the subtle stroke of lines enhancing the architecture to the carefully selected objects that embody a harmonious balance of form and function.",
+    "additionalDetails": {
+      "BuildingAge": "2 Years",
+      "PropertyType": "2 Years",
+      "PropertyStatus": "2 Years",
+      "Gas": "2 Years",
+      "Heating": "2 Years",
+      "Storage": "2 Years"
+    },
+    "amenities": [
+      "Basement",
+      "Fixer Upper",
+      "Foreclosure",
+      "Furnished",
+      "Deck",
+      "Air Conditioning",
+      "Lease To Own"
+    ],
+    "viewVideoUrl": "https://youtu.be/4LaQFbfgvBI",
+    "mapLocation": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d29201.470473808316!2d90.424431!3d23.812062!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755c798efc8d88f%3A0x6e226eca564760c5!2sZeroGround!5e0!3m2!1sen!2sbd!4v1718108704022!5m2!1sen!2sbd",
+    "createdAt": "2024-06-21T09:55:05.218Z",
+    "_id": "66754df931e5f9d4576391a0",
+    "__v": 0
+  },
+  {
+    "agentId": "667511095601344ef8a516e5",
+    "title": "Riverview Rida",
+    "propertyImages": [
+      "image_1718963706353-11043310.jpg",
+      "image_1718963706353-569654405.jpg",
+      "image_1718963706353-257932641.jpg"
+    ],
+    "price": "$15000.00",
+    "category": "sale",
+    "propertySizeCategory": "small",
+    "address": "2118 Thornridge Cir. Syracuse,Connecticut 35624",
+    "size": "1930 Sqft",
+    "bedrooms": 5,
+    "bathrooms": 3,
+    "propertyDescription": "Indulge in a unique blend of contemporary design and artistic inspiration in this 3-bedroom loft. This space effortlessly aligns modern living with creative allure, inviting you to connect with its vibrant energy.As you step inside, an inviting connection forms between the open layout and the surrounding cityscape. Each design element invites you to explore further - from the subtle stroke of lines enhancing the architecture to the carefully selected objects that embody a harmonious balance of form and function.",
+    "additionalDetails": {
+      "BuildingAge": "2 Years",
+      "PropertyType": "2 Years",
+      "PropertyStatus": "2 Years",
+      "Gas": "2 Years",
+      "Heating": "2 Years",
+      "Storage": "2 Years"
+    },
+    "amenities": [
+      "Basement",
+      "Fixer Upper",
+      "Foreclosure",
+      "Furnished",
+      "Deck",
+      "Air Conditioning",
+      "Lease To Own"
+    ],
+    "viewVideoUrl": "https://youtu.be/4LaQFbfgvBI",
+    "mapLocation": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d29201.470473808316!2d90.424431!3d23.812062!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755c798efc8d88f%3A0x6e226eca564760c5!2sZeroGround!5e0!3m2!1sen!2sbd!4v1718108704022!5m2!1sen!2sbd",
+    "createdAt": "2024-06-21T09:55:06.430Z",
+    "_id": "66754dfa31e5f9d4576391a4",
+    "__v": 0
+  }
+]
